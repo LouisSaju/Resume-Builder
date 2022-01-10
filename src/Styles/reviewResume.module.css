@@ -1,0 +1,22 @@
+.p {
+  margin: 0rem;
+}
+.details {
+  display: flex;
+  margin: 0.5rem;
+}
+.button {
+  cursor: pointer;
+  background: #ff00008c;
+  border-radius: 1rem;
+  border: none;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 35%);
+  margin: auto 46%;
+    width: 8rem;
+    max-width: 80%;
+}
+.button:hover {
+  background: #ff00006b;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 16%);
+}

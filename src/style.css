@@ -1,0 +1,27 @@
+body {
+  margin: 0rem;
+}
+h2 {
+  text-align: center;
+  background: #ff00008c;
+  margin: 0rem;
+  padding: 1rem;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 48%);
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+form {
+  padding: 1rem;
+  background-color: rgb(255 255 255 / 6%);
+  margin: 2rem auto;
+  width: 25rem;
+  max-width: 80%;
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 48%);
+}
+label {
+  display: inline-block;
+  width: 150px;
+}
